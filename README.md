@@ -1,3 +1,3 @@
 # portfolio
-My portfolio<br>
+My portfolio django project<br>
 python3 manage.py runserver
